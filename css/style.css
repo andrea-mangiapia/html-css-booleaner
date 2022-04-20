@@ -74,3 +74,28 @@ table {
 .column-3 {
     width: 50%;
 }
+
+/* FOOTER */
+.title-footer {
+    margin-bottom: 2vw;
+}
+
+
+.other-articles {
+    width: 311px;
+    height: 207px;
+    background-image: url(../img/monitor.jpg);
+    margin-bottom: 1vw;
+}
+
+.other-articles-2 {
+    width: 311px;
+    height: 207px;
+    background-image: url(../img/graph.jpg);
+    margin-bottom: 1vw;
+}
+
+.title-other-article {
+    color: white;
+    padding: 10px;
+}
