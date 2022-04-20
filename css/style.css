@@ -22,10 +22,31 @@ header {
     padding: 10px;
 }
 
-.author{
+.title-article {
+    margin-bottom: 2vw;
+}
+
+.author {
     color: #858585;
 }
 
 .name-author {
     color: #20a9e5;
+}
+
+.article-img {
+    margin-bottom: 2vw;
+}
+
+.photo-source {
+    font-size: 11px;
+}
+
+.article-content {
+    margin-bottom: 2vw;
+}
+
+.article-list {
+    margin-left: 16px;
+    margin-bottom: 2vw;
 }
