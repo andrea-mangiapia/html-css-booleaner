@@ -26,6 +26,10 @@ header {
     margin-bottom: 2vw;
 }
 
+.highlights {
+    background-color: yellow;
+}
+
 .author {
     color: #858585;
 }
@@ -49,4 +53,24 @@ header {
 .article-list {
     margin-left: 16px;
     margin-bottom: 2vw;
+}
+
+/* tabella */
+table {
+    width: 100%;
+    margin-bottom: 2vw;
+}
+
+.riga-head {
+    background-color: #20a9e5;
+    border: 0px;
+    color: white;
+}
+
+.riga-pari {
+    background-color: #b1e5f2;
+}
+
+.column-3 {
+    width: 50%;
 }
