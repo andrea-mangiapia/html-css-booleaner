@@ -16,3 +16,16 @@ header {
     width: 200px;
     padding: 20px 10px;
 }
+
+/* MAIN */
+.container-base {
+    padding: 10px;
+}
+
+.author{
+    color: #858585;
+}
+
+.name-author {
+    color: #20a9e5;
+}
